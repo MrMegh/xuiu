@@ -102,8 +102,8 @@ header ul li:hover a {
 }
 .blob {
     position: absolute;
-    width: 500px;
-    height: 500px;
+    width: 300px;
+    height: 300px;
     background: linear-gradient(180deg,
             rgba(47, 184, 255, 0.42) 31.77%,
             #5c9df1 100%);
@@ -114,8 +114,8 @@ header ul li:hover a {
 }
 
 .blob:hover {
-    width: 520px;
-    height: 520px;
+    width: 320px;
+    height: 320px;
     -webkit-filter: blur(30px);
     filter: blur(30px);
     box-shadow:
